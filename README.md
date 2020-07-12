@@ -11,7 +11,7 @@ hovering effect changing the color of the squares. The user can [Clear] the grid
 color and displays random colors.
 
 # Concepts:
-⋅⋅* event listeners
+⋅⋅- event listeners
 ⋅⋅* element creation
 ⋅⋅* class manipulation
 
