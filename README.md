@@ -11,17 +11,17 @@ hovering effect changing the color of the squares. The user can [Clear] the grid
 color and displays random colors.
 
 # Concepts:
-..* event listeners
-..* element creation
-..* class manipulation
+⋅⋅* event listeners
+⋅⋅* element creation
+⋅⋅* class manipulation
 
 
 # Functions:
  ### createGrid(size): Argument used to determine the size of the grid and creates it.
-       ..*The display of the children is 'Grid'.
-       ..*The grid id is #grid-build.
-            calls:createChildBoxes(size);
-                    getWhiteColor();
+       ⋅⋅* The display of the children is 'Grid'.
+       ⋅⋅* The grid id is #grid-build.
+        ⋅⋅* calls:createChildBoxes(size);
+      ⋅⋅* getWhiteColor();
  ### createChildBoxes(size): 
                      ..* Argument used to determine the amount of divs to be created.
                     *Each div gets a class named .div-hover.
