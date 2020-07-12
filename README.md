@@ -1,25 +1,25 @@
-Welcome to Etch-A-Sketch.
-Author: Amilcar Joel, "AJDev".
-Purpose: This proyect was built as an assignment from The Odin Proyect course, it helped me grasp 
+#Welcome to Etch-A-Sketch.
+###Author: Amilcar Joel, "AJDev".
+###Purpose: This proyect was built as an assignment from The Odin Proyect course, it helped me grasp 
 the concepts of DOM manipulation using Javascript.
 
-Description: 
+#Description: 
 Program creates a grid of squares inside a (500px X 500px) container.The container is filled 
 with boxes using grid display. Onmouse hover on the container, triggers a 
 hovering effect changing the color of the squares. The user can [Clear] the grid, 
 [Resize] the grid and [RandomColor] which removes the default
 color and displays random colors.
 
-Concepts:
+#Concepts:
 -event listeners
 -element creation
 -class manipulation
 
 
-Functions:
+#Functions:
 -createGrid(size): Argument used to determine the size of the grid and creates it.
-       *The display of the children is 'Grid'.
-       *The grid id is #grid-build.
+       ..*The display of the children is 'Grid'.
+       ..*The grid id is #grid-build.
             calls:createChildBoxes(size);
                     getWhiteColor();
 -createChildBoxes(size): Argument used to determine the amount of divs to be created.
