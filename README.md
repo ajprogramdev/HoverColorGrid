@@ -11,28 +11,29 @@ hovering effect changing the color of the squares. The user can [Clear] the grid
 color and displays random colors.
 
 # Concepts:
-⋅⋅- event listeners
-⋅⋅* element creation
-⋅⋅* class manipulation
+ - DOM manipulation
+ - event listeners
+ - element creation 
+ - class manipulation
 
 
 # Functions:
  ### createGrid(size): Argument used to determine the size of the grid and creates it.
-       ⋅⋅* The display of the children is 'Grid'.
-       ⋅⋅* The grid id is #grid-build.
-        ⋅⋅* calls:createChildBoxes(size);
-      ⋅⋅* getWhiteColor();
+       - The display of the children is 'Grid'.
+      - The grid id is #grid-build.
+        - calls:createChildBoxes(size);
+      - getWhiteColor();
  ### createChildBoxes(size): 
-                     ..* Argument used to determine the amount of divs to be created.
-                    *Each div gets a class named .div-hover.
-                    *Each div is appended to the #grid-build.
+                    - Argument used to determine the amount of divs to be created.
+                    - Each div gets a class named .div-hover.
+                    - Each div is appended to the #grid-build.
 ### clearGrid(): 
-                      Takes no arguments,removes #grid-build's children till empty.
+                      - Takes no arguments,removes #grid-build's children till empty.
 
 ### generateRandomColors():
-            Takes no arguments, sets random color on 'mouseover' on all .div-hover items.
+           - Takes no arguments, sets random color on 'mouseover' on all .div-hover items.
 ### getWhiteColor(): 
-     Takes no arguments, sets primary color on, 'mouseover' on all .div-hover items.
+     - Takes no arguments, sets primary color on, 'mouseover' on all .div-hover items.
 
 
 # Assets:
@@ -40,9 +41,9 @@ color and displays random colors.
 -Background Image: galaxy style image.
 
 # Resources:
--MDN documentation
--https://css-tricks.com/snippets/javascript/random-hex-color/ RandomColor formula.
--GIMP
+- MDN documentation
+- https://css-tricks.com/snippets/javascript/random-hex-color/ RandomColor formula.
+- GIMP
 
 
 
