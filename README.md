@@ -2,7 +2,7 @@
 ### Author: Amilcar Joel, "AJDev".
 ### Purpose: This proyect was built as an assignment from The Odin Proyect course, it helped me grasp 
 ### the concepts of DOM manipulation using Javascript.
-
+[View Proyect Live](https://ajprogramdev.github.io/HoverColorGrid/)
 # Description: 
 Program creates a grid of squares inside a (500px X 500px) container.The container is filled 
 with boxes using grid display. Onmouse hover on the container, triggers a 
@@ -49,7 +49,7 @@ color and displays random colors.
 - https://css-tricks.com/snippets/javascript/random-hex-color/ RandomColor formula.
 - GIMP
 
-[View Proyect Live](https://ajprogramdev.github.io/HoverColorGrid/)
+
 
 
 
