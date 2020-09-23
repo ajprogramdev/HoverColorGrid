@@ -9,6 +9,8 @@ hovering effect changing the color of the squares. The user can [Clear] the grid
 [Resize] the grid and [RandomColor] which removes the default
 color and displays random colors.
 
+<img src="etchsketchGiphy.gif" height="300" style="object-fit:cover;" >
+
 # Concepts:
  - DOM manipulation
  - event listeners
