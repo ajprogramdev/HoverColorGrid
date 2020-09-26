@@ -1,7 +1,6 @@
 # Welcome to Etch-A-Sketch.
 ### Purpose: This proyect was built as an assignment from The Odin Proyect course, it helped me grasp 
 ### the concepts of DOM manipulation using Javascript.
-## [Click to View Live Proyect](https://ajprogramdev.github.io/HoverColorGrid/)
 # Description: 
 Program creates a grid of squares inside a (500px X 500px) container.The container is filled 
 with boxes using grid display. Onmouse hover on the container, triggers a 
@@ -10,6 +9,8 @@ hovering effect changing the color of the squares. The user can [Clear] the grid
 color and displays random colors.
 
 <img src="etchsketchGiphy.gif" height="300" style="object-fit:cover;" >
+
+## [Click to View Live Proyect](https://ajprogramdev.github.io/HoverColorGrid/)
 
 # Concepts:
  - DOM manipulation
