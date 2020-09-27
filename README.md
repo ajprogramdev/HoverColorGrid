@@ -1,7 +1,8 @@
 # Welcome to Etch-A-Sketch.
-### Purpose: This proyect was built as an assignment from The Odin Proyect course, it helped me grasp 
-### the concepts of DOM manipulation using Javascript.
-# Description: 
+## Purpose: 
+ This proyect was built as an assignment from The Odin Proyect course, it helped me grasp 
+ the concepts of DOM manipulation using Javascript.
+## Description: 
 Program creates a grid of squares inside a (500px X 500px) container.The container is filled 
 with boxes using grid display. Onmouse hover on the container, triggers a 
 hovering effect changing the color of the squares. The user can [Clear] the grid, 
@@ -12,14 +13,14 @@ color and displays random colors.
 
 ## [Click to View Live Proyect](https://ajprogramdev.github.io/HoverColorGrid/)
 
-# Concepts:
+## Concepts:
  - DOM manipulation
  - event listeners
  - element creation 
  - class manipulation
 
 
-# Functions:
+## Functions:
    ### createGrid(size): Argument used to determine the size of the grid and creates it.
       - The display of the children is 'Grid'.
       - The grid id is #grid-build.
@@ -41,12 +42,12 @@ color and displays random colors.
      - Takes no arguments, sets primary color on, 'mouseover' on all .div-hover items.
 
 
-# Assets:
+## Assets:
 
 - Cursor: custom image of a brush.
 - Background Image: galaxy style image.
 
-# Resources:
+## Resources:
 - MDN documentation
 - https://css-tricks.com/snippets/javascript/random-hex-color/ RandomColor formula.
 - GIMP
