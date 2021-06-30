@@ -3,8 +3,8 @@
  This proyect was built as an assignment from The Odin Proyect course, it helped me grasp 
  the concepts of DOM manipulation using Javascript.
 ## Description: 
-Program creates a grid of squares inside a (500px X 500px) container.The container is filled 
-with boxes using grid display. Onmouse hover on the container, triggers a 
+Program creates a grid of squares inside a (500px X 500px) container. The container is filled 
+with boxes using grid display. When triggering the event (Onmouse hover) on the container, triggers a 
 hovering effect changing the color of the squares. The user can [Clear] the grid, 
 [Resize] the grid and [RandomColor] which removes the default
 color and displays random colors.
